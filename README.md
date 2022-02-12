@@ -15,8 +15,3 @@ This repository contains all the projects that I have worked on for my portfolio
 
 4. [Movies Correlation](https://github.com/sumar001/PortfolioProjects/tree/main/MoviesCorrelation)
 
----
-
-### Covid 19 Data Exploration:
-
----
