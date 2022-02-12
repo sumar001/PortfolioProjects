@@ -1,4 +1,4 @@
-### Movie Correlation Project
+## Movie Correlation Project
 
 I downloaded a movie dataset from kaggle and performed an analysis using Python in Jupiter Notebooks. In this project, I look at what variables effect the gross revenue of movies and the correlation between different features. For this project, I used the following libraries: `pandas`, `numpy`, `seaborn`, `matplotlib`. I have used the pearson method as the default correlation method unless otherwise mentioned.
 

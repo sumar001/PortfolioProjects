@@ -7,7 +7,7 @@ This repository contains all the projects that I have worked on for my portfolio
 
 ### <b> List Of Projects: </b>
 
-1. Covid 19 Data Exploration
+1. [Covid 19 Data Exploration](https://github.com/sumar001/PortfolioProjects/tree/main/CovidDataExploration)
 
 2. [Covid Tableau Dashboard](https://github.com/sumar001/PortfolioProjects/tree/main/CovidTableauDashboard)
 
