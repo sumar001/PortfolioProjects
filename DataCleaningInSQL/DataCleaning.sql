@@ -11,7 +11,7 @@ From PortfolioProject..NashvilleHousing
  Update NashvilleHousing
  SET SaleDate = CONVERT(Date, SaleDate)
 
- -- If coolumn does not update properly
+ -- If column does not update properly
 
  ALTER TABLE NashvilleHousing
  Add SaleDateConverted Date;
@@ -173,7 +173,7 @@ From PortfolioProject.dbo.NashvilleHousing
 )
 DELETE
 From RowNumCTE
-Where row_num > 2
+Where row_num > 1
 --Order by PropertyAddress
 
 
